@@ -1,0 +1,12 @@
+#backgroundimage {
+    background-image: url("infinitybackground.jpg");
+    width: 100vw;
+    height: 100vh;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+nav
+{
+    overflow: auto;
+}
